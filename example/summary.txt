@@ -1,0 +1,4 @@
+Files organized in ./example:
+Moved th (1).jpeg to images folder
+Moved th.jpeg to images folder
+Moved abcd.txt to others folder
